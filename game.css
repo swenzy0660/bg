@@ -1,0 +1,12 @@
+html {
+    height: 100%;
+    width: 100%;
+    min-width: 320px;
+    min-height: 320px;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-image: url("https://swenzy0660.github.io/bg/Yeni%20Proje%20(1).png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
